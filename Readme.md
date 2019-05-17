@@ -1,1 +1,1 @@
-Blog using Node.js and React
+Travel Blog using Node.js
