@@ -13,5 +13,8 @@
 **Current Progress**
 
 1.Basic Layout of the Blog.
+
 2.User Authentication.
+
 3.Storing Session Information.
+
