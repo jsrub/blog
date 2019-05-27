@@ -1,4 +1,4 @@
-# Travel Blog with Streaming Service
+# Travel Blog 
 
 **Technologies Used :**
 
@@ -19,14 +19,4 @@
 3.Storing Session Information.
 
 
-
-**Next Part**
-
-1.Adding Video Streaming Feature
-
-2.Better Styling
-
-3.Making UA more secure.
-
-4.Displaying Usernames for User profile Pages.
 
